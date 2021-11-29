@@ -6,9 +6,9 @@
 ###### cse
 *italic font style*
 
-**bold fontstyle**
+**bold font style**
 
-***both bold and italc***
+***both bold and italc fontstyle***
 
 .[Google](https://www.google.com/)
 
