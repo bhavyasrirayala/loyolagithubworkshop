@@ -9,4 +9,7 @@
 **bold fontstyle**
 
 ***both bold and italc***
-.[Google].
+
+.[Google](https://www.google.com/)
+
+![TajMahal](https://www.google.com/maps/about/images/behind-the-scenes/treks/tajmahal-cover.jpg)
